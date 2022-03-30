@@ -1,0 +1,33 @@
+Variant,Subject Line,First Name,Design,Button
+A1,Credit Karma is a Great Place to Work!,Exclude,Version 0,Apply for This Job
+A2,Credit Karma is a Great Place to Work!,Exclude,Version 1,Apply for This Job
+A3,Credit Karma is a Great Place to Work!,Exclude,Version 2,Apply for This Job
+A4,Credit Karma is a Great Place to Work!,Exclude,Version 3,Apply for This Job
+B1,Credit Karma is Hiring Smart People!,Exclude,Version 0,Apply for This Job
+B2,Credit Karma is Hiring Smart People!,Exclude,Version 1,Apply for This Job
+B3,Credit Karma is Hiring Smart People!,Exclude,Version 2,Apply for This Job
+B4,Credit Karma is Hiring Smart People!,Exclude,Version 3,Apply for This Job
+C1,Credit Karma is a Great Place to Work!,Include,Version 0,Apply for This Job
+C2,Credit Karma is a Great Place to Work!,Include,Version 1,Apply for This Job
+C3,Credit Karma is a Great Place to Work!,Include,Version 2,Apply for This Job
+C4,Credit Karma is a Great Place to Work!,Include,Version 3,Apply for This Job
+D1,Credit Karma is Hiring Smart People!,Include,Version 0,Apply for This Job
+D2,Credit Karma is Hiring Smart People!,Include,Version 1,Apply for This Job
+D3,Credit Karma is Hiring Smart People!,Include,Version 2,Apply for This Job
+D4,Credit Karma is Hiring Smart People!,Include,Version 3,Apply for This Job
+E1,Credit Karma is a Great Place to Work!,Exclude,Version 0,Submit Application
+E2,Credit Karma is a Great Place to Work!,Exclude,Version 1,Submit Application
+E3,Credit Karma is a Great Place to Work!,Exclude,Version 2,Submit Application
+E4,Credit Karma is a Great Place to Work!,Exclude,Version 3,Submit Application
+F1,Credit Karma is Hiring Smart People!,Exclude,Version 0,Submit Application
+F2,Credit Karma is Hiring Smart People!,Exclude,Version 1,Submit Application
+F3,Credit Karma is Hiring Smart People!,Exclude,Version 2,Submit Application
+F4,Credit Karma is Hiring Smart People!,Exclude,Version 3,Submit Application
+G1,Credit Karma is a Great Place to Work!,Include,Version 0,Submit Application
+G2,Credit Karma is a Great Place to Work!,Include,Version 1,Submit Application
+G3,Credit Karma is a Great Place to Work!,Include,Version 2,Submit Application
+G4,Credit Karma is a Great Place to Work!,Include,Version 3,Submit Application
+H1,Credit Karma is Hiring Smart People!,Include,Version 0,Submit Application
+H2,Credit Karma is Hiring Smart People!,Include,Version 1,Submit Application
+H3,Credit Karma is Hiring Smart People!,Include,Version 2,Submit Application
+H4,Credit Karma is Hiring Smart People!,Include,Version 3,Submit Application
